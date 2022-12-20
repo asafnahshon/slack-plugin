@@ -1,5 +1,6 @@
 # Slack plugin for Jenkins
 
+
 [![Build Status][jenkins-status]][jenkins-builds]
 [![Jenkins Plugin][plugin-version-badge]][plugin]
 [![GitHub release][github-release-badge]][github-release]
